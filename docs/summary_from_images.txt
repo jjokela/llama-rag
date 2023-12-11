@@ -1,0 +1,119 @@
+PAGE 5
+Target of Superfunds: The government aims for Superfunds to be appealing to pension schemes that can't yet afford or access full insurance buyout but are sufficiently funded to minimize risk. The target schemes for Superfunds are based on their funding levels before any capital injection from the employer group and other factors, such as the scheme size and its employer covenant.
+
+Funding Level Categorization for Scheme Eligibility:
+
+95-100% Buyout Funding Level: Schemes close to a full buyout are not expected to be part of Superfunds.
+90-95% Funding: Schemes with uncertain or no employer covenant are not considered suitable for Superfund transfer.
+70-90% Funding: These are viewed as the most suitable for Superfund transfer, potentially benefiting from risk removal but still facing solvency risk. They are likely to be able to afford the cost of entering a Superfund.
+Up to 70% Funding: Schemes below 70% are seen as possibly too challenging to reach due to the need for increased funding and premiums.
+Considerations on Scheme Size:
+
+The initial target for Superfunds will likely be larger, viable schemes due to the nature of commercial consolidators. There's an acknowledgment that while the preference is to also aid smaller schemes, it's improbable that Superfunds will target very small schemes from the beginning. However, this does not exclude the possibility of helping them in the future.
+Regulatory Framework and Superfund Success:
+
+It's highlighted that a suitable regulatory framework is crucial for Superfunds to achieve the necessary scale for success.
+A restrictive regime may limit Superfunds to a small fraction of well-funded schemes, which could reduce the effectiveness of the Superfund model.
+The page suggests a strategic approach to integrating schemes into Superfunds, taking into account their funding levels, the size of the schemes, and the importance of a flexible regulatory environment to foster success.
+PAGE 9
+Resumption of Business: Superfunds can resume normal business once they return to required authorization funding levels.
+
+Level 1 Trigger: This is activated if funding and capitalization fall below a certain level. Remaining funds within the Superfund or a specific section may be tipped into the scheme funder, with control of the funds being completely handed over to the Superfund Trustees. This allows the section or Superfund to operate independently of a substantive sponsor or transfer liabilities elsewhere if possible.
+
+Wind-up Trigger: Determined by a PPF (Pension Protection Fund) valuation, the wind-up trigger is set above PPF level benefits to protect members from losing some of their pension promises if they receive compensation from the PPF. This trigger allows for flexibility and amendments with the agreement of TPR (The Pensions Regulator), similar to TPR's current interim guidance.
+
+Superfund Corrective Actions: Superfunds have the opportunity within certain limits to take corrective action if triggers are breached. The document discusses intervention and profit triggers, which are detailed from paragraph 105 onwards.
+
+Ladders of Intervention Diagram: A visual representation showing different levels of intervention based on the Superfund's funding status.
+
+Profit Trigger: Occurs when funding is between 125-150% of Authorization Capital Requirements.
+Level 2: Activated when funding equals 100% of authorization capital requirements.
+Level 1: Represents Technical Provisions (TPs).
+The base level indicates a trigger for PPF wind-up at 105% of s179 valuation.
+This section of the document is clearly focused on the financial health of Superfunds and the mechanisms in place to ensure they are operated within defined funding thresholds to protect the interests of pension holders.
+PAGE 11
+Consultation Overview (Paragraph 27):
+
+On December 7, 2018, a consultation titled "Consolidation of Defined Benefit Schemes" was published to outline the operational approach for Superfunds and seek feedback on its practicalities.
+A total of 60 responses were received from various organizations and individuals, showing significant interest in the consolidation model within the UK.
+Three industry roundtables were held to discuss entry requirements for Superfunds, governance, and financial sustainability.
+Responses and Attendees (Paragraph 28):
+
+The organizations that participated in the roundtables are listed in Annex A of the document.
+The contributions to the debate were appreciated for both their quantity and quality.
+Most respondents acknowledged the potential benefits that Superfunds could bring and the necessity for specific legislation to ensure safe operation.
+Respondents by Type (Figure 1):
+
+A pie chart illustrates the distribution of respondents by type:
+Financial Services (30%)
+Legal (25%)
+Pension Provider (17%)
+Insurance Provider (7%)
+Actuarial, Consultancy, Individual, Other, and Trade Union each at 5%
+Post-Consultation Actions (Paragraph 29):
+
+After the consultation, there was close collaboration with stakeholders from government and the pension and insurance industries to develop a regulatory and authorization regime.
+Discussions primarily focused on:
+The size of the capital buffer needed to replace the employer covenant and protect members' benefits.
+The rules governing the control of investment risk.
+This page highlights the collaborative efforts between various industry players and the government to shape the regulatory environment for Superfunds, emphasizing the need for a robust framework to ensure member benefits and manage investment risks effectively.
+PAGE 34
+Table 1 - Significant Events Affecting Superfunds
+
+A change to an individual subject to the fit and proper persons requirement:
+
+Involves appointing a person under the fit and proper criteria at the point of authorization or when there's a change in circumstances for someone already subject to this requirement.
+Applies to: Corporate entity/pension scheme.
+An investigation by another regulator or competent authority:
+
+Triggered when an investigation is launched into any aspect of the Superfund, including those outside the UK and changes in third-party service providers.
+Applies to: Corporate entity/pension scheme.
+A change to the business plan or investment strategy:
+
+Any changes needing a revision to the business plan or deviations from the investment strategy.
+Applies to: Corporate entity/pension scheme.
+A change to the statement of funding principles:
+
+Alterations in the approach to assumptions for calculating liabilities.
+Applies to: Corporate entity/pension scheme.
+A deterioration in the funding level:
+
+Significant decline in funding level over a set time period.
+Applies to: Pension scheme.
+The corporate entity is unable or unlikely to meet agreed levels of assets or liquidity:
+
+Deterioration in the financial reserves within the business.
+Applies to: Corporate entity.
+The Superfund pension scheme and/or corporate entity is unable to meet its liabilities on demand:
+
+The entity is unlikely to meet its liabilities as they fall due.
+Applies to: Corporate entity/pension scheme.
+Discussion on the Consultation Feedback (Paragraph 142)
+
+The majority of respondents agreed with the proposed significant events and additional suggestions, such as changes to corporate structure, as potential significant events.
+There's a call for a simplified, more comprehensive reporting structure, to lessen the burden of excessive reporting and standardize TPR (The Pensions Regulator) flagship schemes.
+Concerns about the excessive burden of reporting and suggestions for reducing the number of reports were raised.
+It was proposed that there needs to be clearly defined thresholds for each significant event to ensure consistent application of the framework by all consolidators.
+This page reflects the feedback from a consultation process, indicating a consensus on defining significant events that would require regulatory reporting or action, and a recognition of the need for streamlined and consistent reporting requirements.
+PAGE 37
+Risk of Regulatory Arbitrage (Paragraph 153):
+
+A 'gateway' was proposed to regulate schemes that can afford insurance buyout to prevent regulatory arbitrage.
+The gateway ensures that transferring into a Superfund is in the members' best interests and involves a set of clear requirements and advice that must be followed.
+Gateway Principles (Paragraph 154):
+
+The principles set out to determine Superfund eligibility exclude schemes that:
+Can buyout through an insurance provider.
+Are assessed to afford buyout in the foreseeable future.
+Would not increase the likelihood of scheme members receiving full benefits.
+Asset and Buyout Comparison (Paragraph 155):
+
+For schemes that don't have sufficient assets for a buyout, the decision to transfer involves comparing two entities: the pension scheme and the employer covenant.
+The comparison includes financial obligations and the likelihood of the employer's long-term ability to pay, taking into account various factors such as the sector, legal obligations, and potential group support.
+Gateway Application (Paragraph 156):
+
+Entering a Superfund is recommended only if the gateway principles are met.
+A simplified flowchart outlines the decision-making process:
+If a scheme can buyout now or in the foreseeable future, it fails the gateway test.
+If it cannot buyout, gateway submission to TPR (The Pensions Regulator) is required.
+The page concludes that while the flowchart provides a simplified view, the actual decision-making process is more nuanced. This indicates that the gateway serves as an initial screening tool for eligibility, but each scheme's situation will need a detailed assessment.
