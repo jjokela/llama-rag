@@ -1,5 +1,35 @@
 # llama-rag
 
+* high-lvl overview
+* * llama-index 
+* uses RAG, re-ranking and synthesis
+* * user can query stuff
+
+* tech details
+* Loading (ingesting data)
+  * embeddings (ada)
+  * chunk size
+  * images summary Chat-GPT, pdf removed images
+  * both documents loaded
+* Indexing
+  * vector index
+  * top-k semantic retrieval
+* Storing
+  * local disk
+  * prompts and responses are stored to `asdf`, see some examples
+* Querying
+  * (see below)
+  * gpt-4
+
+
+* setup
+  * run batch
+
+* Notes
+  * counting of tokens :(
+  * trying to decompose complex queries doesn't work out of the box, probably requires building custom retrieval
+
+
 models used:
 - By default, we use the OpenAI gpt-3.5-turbo model for text generation and text-embedding-ada-002
 
@@ -10,9 +40,12 @@ Loading docs
 - images:
 -- for each page that contained image, I took a screenshot and asked Chat-GPT to create summary of it
 -- could be automated, but there were only 5 pages
+-- if there would be a lot of images (for example slide deck), one option is store both images and summaries, and build an index that links summaries and images, then the response can show the source images as references
 - removed the pages that contained images from pdf
 - loaded both pdf and summaries, generated embeddings and stored them to a in-memory vector db (index)
 - the index is stored into disk, so if it already exists, it is loaded from there
+
+
 
 Retrieval methods:
 - https://arxiv.org/abs/2312.06648 --> looks promising, but lots of manual set-up, consumes lots of nodes
