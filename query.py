@@ -1,9 +1,10 @@
 import logging
+import os
 import sys
 
 from llama_index import get_response_synthesizer, ServiceContext
 from llama_index.indices.vector_store import VectorIndexRetriever
-from llama_index.llms import OpenAI
+from llama_index.llms import OpenAI, AzureOpenAI
 from llama_index.postprocessor import SimilarityPostprocessor, LLMRerank
 from llama_index.query_engine import RetrieverQueryEngine
 
@@ -31,7 +32,19 @@ def get_synthetized_results(index, question):
 
 
 def get_reranked_results(index, query_str, reranker_top_n=3):
-    llm = OpenAI(temperature=0, model="gpt-4")
+    azure_api_key = os.getenv('AZURE_OPENAI_INSTANCE_KEY')
+    api_url = os.getenv('AZURE_OPENAI_LANGUAGE_API_URL')
+
+    # llm = OpenAI(temperature=0, model="gpt-4")
+
+    llm = AzureOpenAI(
+        model="gpt-3.5-turbo",
+        deployment_name="gpt-3.5-turbo",
+        api_key=azure_api_key,
+        azure_endpoint=api_url,
+        api_version='2023-05-15',
+    )
+
     service_context = ServiceContext.from_defaults(llm=llm, chunk_size=1024)
 
     reranker = LLMRerank(
